@@ -4,4 +4,4 @@
 Ημερομηνία Γεννήσεως: 19 Οκτωβρίου 1999
 
 ### Contact Info 
-  e-mail: sotiris-sonic@hotmail.com
+  **e-mail:** sotiris-sonic@hotmail.com
