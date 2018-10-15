@@ -1,7 +1,7 @@
 ## Βιογραφικό Σωτήρη Παναγιωτόπουλου
 
 Τόπος Καταγωγής: Κυπαρισσία Μεσσηνίας
-### Markdown
+Ημερομηνία Γεννήσεως: 19 Οκτωβρίου 1999
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+###Contact Info 
+  e-mail: sotiris-sonic@hotmail.com
