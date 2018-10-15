@@ -3,5 +3,5 @@
 Τόπος Καταγωγής: Κυπαρισσία Μεσσηνίας
 Ημερομηνία Γεννήσεως: 19 Οκτωβρίου 1999
 
-###Contact Info 
+### Contact Info 
   e-mail: sotiris-sonic@hotmail.com
